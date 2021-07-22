@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Michel website
-email:
+title: Michel's website
+email: michelmzc@protonmail.ch
 description: >- # this means to ignore newlines until "baseurl:"
   Southern chilean student of  IT/CS. 
-twitter_username: username
+#twitter_username: username
 github_username: michelmzc
 minimal_mistakes_skin: dark
 search: true
@@ -56,17 +56,17 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Michel"
+  name   : "Michel Muñoz Castro"
   avatar : "/assets/images/michel.jpg"
   bio    : "Southern chilean student of  IT/CS. I like to learn how things work, especially when it comes to techs. I think they make a better world."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://michelmzc.github.io"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
+    #- label: "Twitter"
+    #  icon: "fab fa-fw fa-twitter-square"
+    #  url: "https://twitter.com/"
+    #- label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/michelmzc"
     - label: "Instagram"
@@ -75,9 +75,9 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    #- label: "Twitter"
+    #  icon: "fab fa-fw fa-twitter-square"
+    #  url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/michelmzc.github.io"
