@@ -1,5 +1,5 @@
 ---
-title: "Post: Notice"
+title: "Aviso de servicios informáticos"
 categories:
   - Blog
 tags:
