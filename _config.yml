@@ -16,7 +16,7 @@
 title: Michel's website
 email: michelmzc@protonmail.ch
 description: >- # this means to ignore newlines until "baseurl:"
-  Southern chilean student of  IT/CS. 
+  Southern chilean student of Information Technology. 
 #twitter_username: username
 github_username: michelmzc
 minimal_mistakes_skin: dark
@@ -29,7 +29,7 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Santiago
 
 include:
   - _pages
@@ -58,20 +58,26 @@ plugins:
 author:
   name   : "Michel Muñoz Castro"
   avatar : "/assets/images/michel.jpg"
-  bio    : "Southern chilean student of  IT/CS. I like to learn how things work, especially when it comes to techs. I think they make a better world."
+  bio    : "Southern chilean student of Information Technolgy.  
+            I like to learn how things work, especially when it comes to technology.
+            I believe that techs make a better world."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://michelmzc.github.io"
+    #- label: "Website"
+    #  icon: "fas fa-fw fa-link"
+    #  url: "https://www.michelmzc.com"
     #- label: "Twitter"
     #  icon: "fab fa-fw fa-twitter-square"
-    #  url: "https://twitter.com/"
-    #- label: "GitHub"
+    #  url: "https://twitter.com/michelamzc"
+    - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/michelmzc"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/michelmzc"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/michel-mu%C3%B1oz-castro-a08b21215/"
+
 
 footer:
   links:
@@ -80,10 +86,13 @@ footer:
     #  url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/michelmzc.github.io"
+      url: "https://github.com/michelmzc"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/michelmzc"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/michel-mu%C3%B1oz-castro-a08b21215/"
 
 defaults:
   # _posts
@@ -93,7 +102,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: true
       share: true
       related: true
