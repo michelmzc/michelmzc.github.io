@@ -1,4 +1,4 @@
-PDF document [LINK](https://github.com/michelmzc/cloud-computing-system-implementation).
+Github Repository [LINK](https://github.com/michelmzc/cloud-computing-system-implementation).
 
 Research about Cloud Computing System Implementation to Expand the Capabilities of a Latin America University
 
