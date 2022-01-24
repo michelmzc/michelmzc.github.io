@@ -16,7 +16,7 @@
 title: Michel's website
 email: michelmzc@protonmail.ch
 description: >- # this means to ignore newlines until "baseurl:"
-  Southern chilean student of Information Technology. 
+  Southern chilean Computer Science/Information Technology Engineer.
 #twitter_username: username
 github_username: michelmzc
 minimal_mistakes_skin: dark
@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Michel Muñoz Castro"
   avatar : "/assets/images/michel.jpg"
-  bio    : "Southern chilean student of Information Technolgy.  
+  bio    : "Southern chilean Computer Science/Information Technology Engineer.  
             I like to learn how things work, especially when it comes to technology.
             I believe that techs make a better world."
   links:
