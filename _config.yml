@@ -13,13 +13,29 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Michel's website
-email: michelmzc@protonmail.ch
+
+# Theme Settings
+#
+# Review documentation to determine if you should use `theme` or `remote_theme`
+# https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
+
+# theme                  : "minimal-mistakes-jekyll"
+# remote_theme           : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "dark" #"default", "air", "aqua", "contrast", "dirt", "neon", "mint", "plum", "sunrise"
+
+
+# Site Settings
+locale                   : "en-US"
+title                    : " Michel's website"
+title_separator          : "-"
+subtitle                 : #"Subtitle" # site tagline that appears below site title in masthead
+name                     : "Michel Muñoz Castro"
+email                    : "michelmzc@gmail.com"
 description: >- # this means to ignore newlines until "baseurl:"
-  Southern chilean Computer Science/Information Technology Engineer.
+  "Southern chilean computer engineer."
 #twitter_username: username
-github_username: michelmzc
-minimal_mistakes_skin: dark
+#github_username: michelmzc
+
 search: true
 
 # Build settings
@@ -58,9 +74,9 @@ plugins:
 author:
   name   : "Michel Muñoz Castro"
   avatar : "/assets/images/michel.jpg"
-  bio    : "Southern chilean Computer Science/Information Technology Engineer.  
+  bio    : "Southern chilean computer engineer 
             I like to learn how things work, especially when it comes to technology.
-            I believe that techs make a better world."
+            I believe that techs makes a better world."
   links:
     #- label: "Website"
     #  icon: "fas fa-fw fa-link"
@@ -97,7 +113,7 @@ footer:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "_posts"
       type: posts
     values:
       layout: single
