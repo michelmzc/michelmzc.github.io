@@ -30,9 +30,12 @@ title                    : " Michel's website"
 title_separator          : "-"
 subtitle                 : #"Subtitle" # site tagline that appears below site title in masthead
 name                     : "Michel Muñoz Castro"
-email                    : "michelmzc@gmail.com"
+email                    : "michelmzco@gmail.com"
 description: >- # this means to ignore newlines until "baseurl:"
   "Southern chilean computer engineer."
+#url: "https://www.michelmzc.com"
+#baseurl: "/"
+
 #twitter_username: username
 #github_username: michelmzc
 
