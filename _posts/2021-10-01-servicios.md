@@ -13,7 +13,6 @@ tags:
 
 Servicios Informáticos Michel Muñoz Castro.
 - Ubicación Osorno, Chile
-- Teléfono +56 9 6274 3919
 - Correo michelmzco@gmail.com
 
 
