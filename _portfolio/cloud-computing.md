@@ -23,7 +23,7 @@ gallery:
     alt: "placeholder image 3"
 ---
 
-# [Github Repository PDF](https://github.com/michelmzc/Implementacion-de-Sistema-de-Computacion-en-la-Nube-con-OpenStack/blob/518ad2f84eede151ad43ac4567262cc092cf345d/Implementaci%C3%B3n%20de%20Sistema%20de%20Computaci%C3%B3n%20en%20la%20Nube.%20Michel%20Mu%C3%B1oz%20(2021).pdf).
+# [Github Repository PDF](https://github.com/michelmzc/Implementacion-de-Sistema-de-Computacion-en-la-Nube-con-OpenStack/blob/518ad2f84eede151ad43ac4567262cc092cf345d/Implementaci%C3%B3n%20de%20Sistema%20de%20Computaci%C3%B3n%20en%20la%20Nube.%20Michel%20Mu%C3%B1oz%20(2021).pdf)
 
 ## Abstract  
 

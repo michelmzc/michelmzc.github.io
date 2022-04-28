@@ -21,7 +21,7 @@ gallery:
     alt: "placeholder image 3"
 ---
 
-## [Website Colectivo La Lluvia](https://www.colectivolalluvia.com).
+# [Website link](https://www.colectivolalluvia.com)
 
 Web developed with WordPress and Colibri plugin. Deployed at AWS EC2 with AMI image from Bitnami. The work was subsidized by the chilean Ministry of Culture.
 
