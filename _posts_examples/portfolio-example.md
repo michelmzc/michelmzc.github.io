@@ -7,15 +7,15 @@ header:
 sidebar:
   - title: "Role"
     
-    image_alt: "logo"
+    #image_alt: "logo"
     text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+  #- title: "Responsibilities"
+  #  text: "Reuters try PR stupid commenters should isn't a business model"
 gallery:
   - url: /assets/images/portfolio/example/unsplash-gallery-image-1.jpg
     image_path: assets/images/portfolio/example/unsplash-gallery-image-1.jpg
     alt: "placeholder image 1"
-  - url: /assets/images/portfolio/unsplash-gallery-image-2.jpg
+  - url: /assets/images/portfolio/example/unsplash-gallery-image-2.jpg
     image_path: assets/images/portfolio/example/unsplash-gallery-image-2.jpg
     alt: "placeholder image 2"
   - url: /assets/images/portfolio/example/unsplash-gallery-image-3.jpg
