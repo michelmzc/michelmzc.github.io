@@ -20,7 +20,7 @@ gallery:
     image_path: assets/images/portfolio/colectivo-la-lluvia/screenshot_3.jpg
     alt: "placeholder image 3"
 ---
-# [Colectivo La Lluvia Webpag](https://www.colectivolalluvia.com).
+# [Website Colectivo La Lluvia](https://www.colectivolalluvia.com).
 
 Web developed with WordPress and Colibri plugin. Deployed at AWS EC2 with AMI image from Bitnami. The work was subsidized by the chilean Ministry of Culture.
 
