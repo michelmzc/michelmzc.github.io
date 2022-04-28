@@ -6,33 +6,35 @@ header:
   overlay_color: "#5e616f"
   overlay_image: /assets/images/volcan-osorno-glaciar.jpg
   actions:
-    - label: "<i class='fas fa-download'></i> Install now"
-      url: "/docs/quick-start-guide/"
+    - label: "<i class='fas fa-download'></i> CV Download"
+      url: "/assets/cv/English CV Michel Muñoz.pdf"
+      caption: "Photo credit: [**Nicolás Vivar**](https://www.glaciareschilenos.org/ciencia/paisajes-y-glaciares-en-el-volcan-osorno/)"
 excerpt: >
-  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
-  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0">Latest release v4.24.0</a></small>
+  <b> Southern chilean Computer Science Engineer.</b> 
+intro: 
+  - excerpt: 'I like to learn how things work, especially when it comes to technology. I believe that technology makes a better world.'
 feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
-    alt: "customizable"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/docs/configuration/"
+  - image_path: /assets/images/coding.jpg
+    alt: "Portfolio"
+    title: "Portfolio"
+    excerpt: "My portfolio"
+    url: "/portfolio/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
-  - image_path: /assets/images/mm-responsive-feature.png
-    alt: "fully responsive"
-    title: "Responsive layouts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
+    btn_label: "Link to my Portfolio!"
+  - image_path: /assets/images/anuncio-resized.jpg
+    alt: "Servicios Informáticos"
+    title: "Servicios Informáticos"
+    excerpt: "Servicios ofrecidos de forma personal"
+    url: "/blog/servicios"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
-  - image_path: /assets/images/mm-free-feature.png
-    alt: "100% free"
-    title: "100% free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
-    url: "/docs/license/"
+    btn_label: "Ver servicios"
+  - image_path: /assets/images/youtube-capture.png
+    alt: "Youtube Channel"
+    title: "Youtube Channel"
+    excerpt: "Some music covers and IT content"
+    url: "https://www.youtube.com/channel/UC-4QUiCOP9CmqEDPutFJ4eA"
     btn_class: "btn--primary"
-    btn_label: "Learn more"      
+    btn_label: "Link to my Youtube Channel!"      
 ---
 
 {% include feature_row %}
