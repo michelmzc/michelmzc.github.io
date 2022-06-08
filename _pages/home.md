@@ -5,10 +5,6 @@ hidden: true
 header:
   overlay_color: "#5e616f"
   overlay_image: /assets/images/volcan-osorno-glaciar.jpg
-  actions:
-    - label: "<i class='fas fa-download'></i> CV Download"
-      url: "/assets/cv/English CV Michel Muñoz.pdf"
-      caption: "Photo credit: [**Nicolás Vivar**](https://www.glaciareschilenos.org/ciencia/paisajes-y-glaciares-en-el-volcan-osorno/)"
 excerpt: >
   <b> Southern Chilean Computer Science Engineer.</b> 
 intro: 
