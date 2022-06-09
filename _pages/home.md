@@ -16,16 +16,7 @@ feature_row:
     excerpt: "My portfolio"
     url: "/portfolio/"
     btn_class: "btn--primary"
-    btn_label: "Link to my Portfolio!"
-  
-  - image_path: /assets/images/youtube-capture.png
-    alt: "Youtube Channel"
-    title: "Youtube Channel"
-    excerpt: "Some music covers and IT content"
-    url: "https://www.youtube.com/channel/UC-4QUiCOP9CmqEDPutFJ4eA"
-    btn_class: "btn--primary"
-    btn_label: "Link to my Youtube Channel!"   
-  
+    btn_label: "Link to my Portfolio!!"
   - image_path: /assets/images/anuncio-resized.jpg
     alt: "Servicios Informáticos"
     title: "Servicios Informáticos"
