@@ -26,10 +26,10 @@ minimal_mistakes_skin    : "dark" #"default", "air", "aqua", "contrast", "dirt",
 
 # Site Settings
 locale                   : "en-US"
-title                    : " Michel Muñoz Castro"
+title                    : " Michel Muñoz"
 title_separator          : "-"
 subtitle                 : "Personal website" #"Subtitle" # site tagline that appears below site title in masthead
-name                     : "Michel Muñoz Castro"
+name                     : "Michel Muñoz"
 email                    : "michelmzco@gmail.com"
 description: >- # this means to ignore newlines until "baseurl:"
   "Southern chilean computer engineer."
