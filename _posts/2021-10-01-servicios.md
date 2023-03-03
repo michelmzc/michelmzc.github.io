@@ -11,7 +11,7 @@ tags:
 
 ## Cinco servicios especializados en informática que ofrezco personalmente.
 
-Servicios Informáticos Michel Muñoz Castro.
+Servicios Informáticos Michel Muñoz.
 - Ubicación Osorno, Chile
 - Correo michelmzco@gmail.com
 

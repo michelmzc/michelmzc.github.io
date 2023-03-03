@@ -75,7 +75,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Michel Muñoz Castro"
+  name   : "Michel Muñoz"
   avatar : "/assets/images/michel.jpg"
   bio    : "Southern Chilean Computer Science Engineer"
   links:
@@ -93,7 +93,7 @@ author:
       url: "https://instagram.com/michelmzc"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/michel-mu%C3%B1oz-castro-a08b21215/"
+      url: "https://www.linkedin.com/in/michel-m-a08b21215/"
 
 
 footer:
@@ -109,7 +109,7 @@ footer:
       url: "https://instagram.com/michelmzc"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/michel-mu%C3%B1oz-castro-a08b21215/"
+      url: "https://www.linkedin.com/in/michel-m-a08b21215/"
 
 defaults:
   # _posts
