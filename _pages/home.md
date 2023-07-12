@@ -23,7 +23,6 @@ feature_row:
     url: "/blog/servicios"
     btn_class: "btn--primary"
     btn_label: "Ver servicios"   
-  
   - image_path: /assets/images/youtube-capture.png
     alt: "Canal de Youtube"
     title: "Canal de Youtube"
