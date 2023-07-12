@@ -6,24 +6,31 @@ header:
   overlay_color: "#5e616f"
   overlay_image: /assets/images/volcan-osorno-glaciar.jpg
 excerpt: >
-  <b> Southern Chilean Computer Science Engineer.</b> 
+  <b> Ingeniero Civil en Informática</b> 
 intro: 
-  - excerpt: 'I like to learn how things work, especially when it comes to technology. I believe that technology makes a better world.'
+  - excerpt: 'Me gusta entender como las cosas funcionan, en especial cuando se trata de tecnología. Creo la tecnología hace el mundo mejor.'
 feature_row:
   - image_path: /assets/images/coding.jpg
-    alt: "Portfolio"
-    title: "Portfolio"
-    excerpt: "My portfolio"
+    alt: "Portafolio"
+    title: "Portafolio"
+    excerpt: "Mi portafolio"
     url: "/portfolio/"
     btn_class: "btn--primary"
-    btn_label: "Link to my Portfolio!!"
+    btn_label: "Enlace al portafolio"
   - image_path: /assets/images/anuncio-resized.jpg
     alt: "Servicios Informáticos"
     title: "Servicios Informáticos"
-    excerpt: "Servicios ofrecidos de forma personal"
     url: "/blog/servicios"
     btn_class: "btn--primary"
     btn_label: "Ver servicios"   
+  
+  - image_path: /assets/images/youtube-capture.png
+    alt: "Canal de Youtube"
+    title: "Canal de Youtube"
+    excerpt: "Mi canal de Yutube"
+    url: "https://www.youtube.com/channel/UC-4QUiCOP9CmqEDPutFJ4eA"
+    btn_class: "btn--primary"
+    btn_label: "Ver en Youtube" 
 ---
 
 {% include feature_row %}

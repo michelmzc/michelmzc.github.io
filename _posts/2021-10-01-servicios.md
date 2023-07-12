@@ -22,19 +22,15 @@ Este servicio consiste en la actualización del dispositivo de almacenamiento. C
 
 La nueva unidad SSD se compra en PC Factory con garantía de 3 meses. Durante este periodo se ofrece garantía personal en caso de fallar la unidad SSD.
 
-Valores apróximados:
-
-- Aceleración con SSD 240 GB = $100.000
-- Aceleración con SSD 480 GB = $140.000
-- Aceleración con SSD 1 TB o más = $170.000
-
-Valores finales se evaluan en presupuesto debido a la variación de precios de las unidades SSD.
+Valores finales se evaluan en presupuesto debido a la variación de precios de las unidades SSD. Consultar valores.
 
 ## Asesorias en tecnología
 
 Este servicio consiste en la asesoria en tópicos relacionados a las tecnologías de la información. Mediante la coordinación de reunión en línea con cliente en plataforma Google Meet u otro a convenir.
 
 En esta modalidad se reciben cualquier tipo de duda, consulta, necesidad, problema y se orienta al cliente para obtener un mejor conocimiento en el área para la toma de desiciones.
+
+Valor $15.000.
 
 
 ## Cotizaciones de equipamiento
@@ -46,7 +42,10 @@ Reunión en torno a la cotización de equipamiento. El objetivo es que el client
 - Cotización de impresoras, redes, equipamiento de oficina
 - Cotización en cualquier otro equipamiento en tecnología
 
+Valor $15.000
 
 ## Desarrollo de software
 
 Este servicio consiste en el desarrollo de software a medida. Se coordina una reunión para evaluar el proyecto y se entrega un presupuesto de acuerdo a los requerimientos y posibles soluciones necesarias. 
+
+Consultar valores

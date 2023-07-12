@@ -3,7 +3,22 @@ permalink: /about/
 title: "About"
 ---
 
-Hello! my name is Michel from Osorno, Chile, South America. Welcome to my personal webpage! this place are made to post information about my projects, ideas and tricks related to IT.
+Hola! mi nombre es Michel, soy de Osorno, Chile, Sur Ámerica. 
+
+Bienvendios a mi página web personal, en este lugar público información de mis proyectos.
+
+Actualmente estoy título en Ingenieria Civil en Informática por la Unversidad Católica de Temuco.
+
+> Me gusta entender como las cosas funcionan, en especial cuando se trata de tecnología. 
+Creo la tecnología hace el mundo mejor.
+
+Mi experiencia laboral ha estado relacionada con la Administración de sistema, la computación en la nube, la programación web y de videojuegos, también educación y más!
+
+-
+
+EN
+
+Hello! my name is Michel from Osorno, Chile, South America. Welcome to my personal webpage! this place are made to post information about my projects.
 
 Currently I'm Southern chilean Computer Science Engineer graduated at Universidad Católica de Temuco. 
 
