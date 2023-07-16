@@ -1,12 +1,12 @@
 ---
 title: "Web Colectivo La Lluvia"
-excerpt: "Web developed with WordPress and Colibri plugin. Deployed at AWS EC2 with AMI image from bitnami."
+excerpt: "Primer sitio web"
 header:
   image: /assets/images/portfolio/colectivo-la-lluvia/ccl-website.jpg
   teaser: /assets/images/portfolio/colectivo-la-lluvia/ccl-website.jpg
 sidebar:
   - title: "Role"
-    text: "Web Developer"
+    text: "Desarrollador web"
   #- title: "Responsibilities"
   #  text: "Reuters try PR stupid commenters should isn't a business model"
 gallery:
@@ -21,10 +21,9 @@ gallery:
     alt: "placeholder image 3"
 ---
 
-# [Website link](https://www.colectivolalluvia.com)
+# [Sitio web](https://www.colectivolalluvia.com)
 
-Web developed with WordPress and Colibri plugin. Deployed at AWS EC2 with AMI image from Bitnami. The work was subsidized by the chilean Ministry of Culture.
 
-{% include gallery caption="Gallery of the website" %}
+Primer sitio web vendido para Colectivo La Lluvia. Subsidiado por el Ministerio de Cultura de Chile.
 
-**(Español)** Colectivo La Lluvia es una organización colectiva, cultural y comunitaria que intenta promover el arte independiente en Osorno a través de la creación de espacios para el encuentro artístico en sus diversas manifestaciones. Generan proyectos para apoyar el arte osornino para que siga creciendo y se pueda visibilizar de mejor manera. 
+{% include gallery caption="Galeria del sitio web" %}

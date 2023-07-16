@@ -32,14 +32,13 @@ subtitle                 : "Sitio web personal" #"Subtitle", site tagline that a
 name                     : "Michel Muñoz Castro"
 email                    : "michelmzco@gmail.com"
 description: >- # this means to ignore newlines until "baseurl:"
-  "Ingeniero Civil en Informática"
-#url: "https://www.michelmzc.com"
-#baseurl: "/"
+  "Sitio personal"
+url: "https://www.michelmzc.github.io"
+baseurl: "/"
 
 #twitter_username: username
 github_username: michelmzc
-
-search: true
+search: false
 
 # Build settings
 markdown: kramdown
@@ -75,9 +74,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Michel Muñoz"
+  name   : "Michel Muñoz Castro"
   avatar : "/assets/images/michel.jpg"
-  bio    : "Ingeniero Civil en Informática"
+  bio    : "Sitio web personal"
   links:
     #- label: "Website"
     #  icon: "fas fa-fw fa-link"
