@@ -21,7 +21,7 @@ gallery:
     alt: "placeholder image 3"
 ---
 
-# [Sitio web](https://www.colectivolalluvia.com)
+# [Sitio web](https://www.colectivolalluvia.cl)
 
 
 Primer sitio web vendido para Colectivo La Lluvia. Subsidiado por el Ministerio de Cultura de Chile.
