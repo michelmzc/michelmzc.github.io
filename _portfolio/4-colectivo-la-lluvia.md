@@ -7,8 +7,6 @@ header:
 sidebar:
   - title: "Role"
     text: "Desarrollador web"
-  #- title: "Responsibilities"
-  #  text: "Reuters try PR stupid commenters should isn't a business model"
 gallery:
   - url: /assets/images/portfolio/colectivo-la-lluvia/screenshot_1.jpg
     image_path: assets/images/portfolio/colectivo-la-lluvia/screenshot_1.jpg
