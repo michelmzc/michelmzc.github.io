@@ -11,13 +11,13 @@ sidebar:
   
 gallery:
   - url: /assets/images/portfolio/cides-academy/Screenshot_1.jpg
-    image_path: assets/images/portfolio/cides-academy/screenshot_1.jpg
+    image_path: assets/images/portfolio/cides-academy/Screenshot_1.jpg
     alt: "Página de inicio y tienda"
   - url: /assets/images/portfolio/cides-academy/Screenshot_4.jpg
-    image_path: assets/images/portfolio/cides-academy/screenshot_4.jpg
+    image_path: assets/images/portfolio/cides-academy/Screenshot_4.jpg
     alt: "Producto"
   - url: /assets/images/portfolio/cides-academy/Screenshot_3.jpg
-    image_path: assets/images/portfolio/cides-academy/screenshot_3.jpg
+    image_path: assets/images/portfolio/cides-academy/Screenshot_3.jpg
     alt: "Plataforma de aprendizaje"
 ---
 
