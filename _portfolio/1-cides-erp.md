@@ -1,6 +1,6 @@
 ---
 title: "CIDES ERP"
-excerpt: "Sistema de adminisitración empresarial"
+excerpt: "Sistema de administración empresarial"
 header:
   image: /assets/images/portfolio/cides-erp/Screenshot_3.jpg
   teaser: /assets/images/portfolio/cides-erp/Screenshot_1.jpg
@@ -8,6 +8,7 @@ sidebar:
   - title: "Role"    
     image_alt: "logo"
     text: "Desarrollador web"
+
 gallery:
   - url: /assets/images/portfolio/cides-erp/Screenshot_1.jpg
     image_path: assets/images/portfolio/cides-erp/Screenshot_1.jpg
