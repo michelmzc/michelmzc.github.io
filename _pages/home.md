@@ -25,14 +25,6 @@ feature_row:
     url: "/blog/servicios"
     btn_class: "btn--primary"
     btn_label: "Ver servicios"   
-
-  - image_path: /assets/images/youtube-capture.png
-    alt: "Canal de Youtube"
-    title: "Canal de Youtube"
-    #excerpt: "Mi canal de Yutube"
-    url: "https://www.youtube.com/channel/UC-4QUiCOP9CmqEDPutFJ4eA"
-    btn_class: "btn--primary"
-    btn_label: "Ver en Youtube" 
 ---
 
 {% include feature_row %}
