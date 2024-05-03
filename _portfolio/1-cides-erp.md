@@ -25,11 +25,15 @@ gallery:
   
 ---
 
+## [Enlace a la Beta](https://erp-test.cides.com/)
+
 {% include gallery caption="Galería de capturas" %}
 
 Trabajo en desarrollo a [CIDES Corpotraining](https://www.cides.com/). 
 
-Mi trabajo consiste en desarrollar el nuevo sistema de administración empresarial (ERP) de CIDES. Mediante el rediseño de sistemas existentes con nuevas tecnologías. Se hace un desarrollo de software para cumplir los requerimientos de administración de un organizmo técnico de capacitación con presencia en latinoamérica. 
+Mi trabajo consiste en desarrollar el nuevo sistema de administración empresarial (ERP) de CIDES. Mediante el rediseño de sistemas existentes con nuevas tecnologías. 
+
+Se hace un desarrollo de software para cumplir los requerimientos de administración de un organizmo técnico de capacitación con presencia en latinoamérica. 
 
 Tecnologías: Python, Flask, MySQL, Bootstrap, jQuery, Git y más. 
 
