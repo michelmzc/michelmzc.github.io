@@ -6,7 +6,7 @@ header:
 sidebar:
   - title: "Role"    
     image_alt: "logo"
-    text: "Desarrollador web"
+    text: "Estudiante"
 
 gallery:
   - url: /assets/images/portfolio/0-titulos/titulo.pdf
