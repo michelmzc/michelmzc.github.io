@@ -1,5 +1,5 @@
 ---
-title: "Instructor de programación"
+title: "Instructor de programación CodingDojo Latam"
 excerpt: "Curso técnico profesional de educación media"
 header:
   image: /assets/images/portfolio/6-profesor/3.jpg
@@ -8,8 +8,6 @@ sidebar:
   - title: "Role"    
     #image_alt: "logo"
     text: "Profesor"
-  #- title: "Responsibilities"
-  #  text: "Reuters try PR stupid commenters should isn't a business model"
 gallery:
   - url: /assets/images/portfolio/6-profesor/1.jpg
     image_path: assets/images/portfolio/6-profesor/1.jpg
@@ -26,10 +24,10 @@ gallery:
 
 ## Acerca del trabajo
 
-El 2024 se presento la oportunidad de ser instructor en el [Instituto Comercial de Osorno](https://www.institutocomercialosorno.cl/).
+El 2024 se presentó la oportunidad de ser instructor en el [Instituto Comercial de Osorno](https://www.institutocomercialosorno.cl/).
 
-[Coding Dojo Latam](https://www.codingdojo.la/) me contacto para que realizará clases presenciales a chicos de 4° Medio.
+[Coding Dojo Latam](https://www.codingdojo.la/) me contactó para que realizará clases presenciales a chicos del 4° Medio A.
 
-Tomé el desafio y durante este año estaré dando clases a estudiantes de la especialidad ténico profesional en programación.
+Tomé el desafio y durante este año estaré dando clases a estudiantes de la especialidad técnico profesional en programación.
 
-Les daré los cursos de Introducción a la Web y Desarrollo web Full-Stack con Python. Estos adaptados para estudiantes de educación media en Chile.
+Impartiré los cursos de Introducción a la Web y Desarrollo web Full-Stack con Python. Estos adaptados por CodingDojo para estudiantes de educación media en Chile.
