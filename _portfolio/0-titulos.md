@@ -18,4 +18,4 @@ gallery:
   
 ---
 
-{% include gallery caption="Certíficados" %}
+{% include gallery caption="Certificados" %}
