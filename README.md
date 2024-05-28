@@ -1,6 +1,6 @@
-# Editar localmente
+# Portafolio peronal 
 
-[Enlace](https://docs.github.com/es/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll)
+[Editar localmente](https://docs.github.com/es/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll)
 
 [Cambiar página por defecto](https://talk.jekyllrb.com/t/minimal-mistakes-home-page/3540/3)
 

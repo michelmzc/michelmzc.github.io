@@ -17,6 +17,10 @@ gem "github-pages", group: :jekyll_plugins
 gem "jekyll-include-cache", group: :jekyll_plugins
 gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw]
 gem "webrick"
+gem 'nokogiri'
+gem 'rack', '~> 2.2.4'
+gem 'rspec'
+
 # The following plugins are automatically loaded by the theme-gem:
 #   gem "jekyll-paginate" 
 #   gem "jekyll-sitemap"

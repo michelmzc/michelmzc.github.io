@@ -1,6 +1,6 @@
 ---
-title: "Instructor de programación CodingDojo Latam"
-excerpt: "Curso técnico profesional de educación media"
+title: "Instructor de programación"
+excerpt: "Instructor Coding Dojo en curso técnico profesional de educación media"
 header:
   image: /assets/images/portfolio/6-profesor/3.jpg
   teaser: /assets/images/portfolio/6-profesor/3.jpg
