@@ -9,7 +9,7 @@ Bienvendios a mi página web personal, en este lugar publico información de mis
 
 Estoy títulado en Ingenieria Civil en Informática por la Unversidad Católica de Temuco.
 
-Actualmente estoy trabajando en [CIDES Corpotraining](https://www.cides.com/)  como **Desarrollador de Software**.
+Actualmente estoy trabajando como profesor en [Instituto Comercial de Osorno](https://www.institutocomercialosorno.cl/)  como **Profesor de programación**.
 
 > Me gusta entender como las cosas funcionan, en especial cuando se trata de tecnología. 
 Creo la tecnología hace el mundo mejor.

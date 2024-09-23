@@ -1,12 +1,7 @@
 main:
   - title: "Home"
     url: /
-  - title: "About"
+  - title: "Acerca de"
     url: /about/
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  
+  - title: "Portafolio"
+    url: /portfolio
