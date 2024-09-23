@@ -36,7 +36,3 @@ Mi trabajo consistió en desarrollar el nuevo sistema de administración empresa
 Se hace un desarrollo de software para cumplir los requerimientos de administración de un organismo técnico de capacitación con presencia en latinoamérica. 
 
 Tecnologías: Python, Flask, MySQL, Bootstrap, jQuery, Git y más. 
-
-
-
-
