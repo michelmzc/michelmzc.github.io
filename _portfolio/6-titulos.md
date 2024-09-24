@@ -2,7 +2,7 @@
 title: "Mis títulos universitarios"
 excerpt: "Certificados"
 header:
-  teaser: /assets/images/portfolio/0-titulos/licencia.jpg
+  teaser: /assets/images/portfolio/0-titulos/titulo-miniatura.png
 sidebar:
   - title: "Role"    
     image_alt: "logo"
@@ -15,7 +15,6 @@ gallery:
   - url: /assets/images/portfolio/0-titulos/licencia.pdf
     image_path: assets/images/portfolio/0-titulos/licencia.jpg
     alt: "Licencia en ciencias de la ingeniería"
-  
 ---
 
 {% include gallery caption="Certificados" %}
