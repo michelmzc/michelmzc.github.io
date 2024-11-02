@@ -7,7 +7,7 @@ Hola, mi nombre es Michel, soy de Osorno, Chile, América del Sur.
 
 Bienvenidos a mi página web personal, en este lugar publico [información de mis proyectos](https://michelmzc.github.io/portfolio), pasatiempos e información miscelánea. 
 
-Algo que debes saber de mi es que me apasiona la informática. Hasta tengo un titulo profesional y todo.
+Algo que debes saber de mi es que me apasiona la informática. Hasta tengo un [título profesional](https://michelmzc.github.io/portfolio/6-titulos/) y todo.
 
 Actualmente estoy trabajando como **profesor de programación** en [Instituto Comercial de Osorno](https://www.institutocomercialosorno.cl/).
 
@@ -16,3 +16,6 @@ Mi experiencia laboral ha estado relacionada también con la ciberseguridad, des
 Gracias por haber llegado hasta aquí.
 
 Saludos!
+
+[Portafolio](https://michelmzc.github.io/portfolio){: .btn .btn--info}
+[Servicios informáticos](https://michelmzc.github.io/blog/servicios/){: .btn .btn--success}

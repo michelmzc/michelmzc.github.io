@@ -9,9 +9,9 @@ categories:
 
 ## Servicios especializados en informática
 
-- Ubicación Osorno, Chile
-- Correo michelmzco@gmail.com
-- Teléfono +56 9 6274 3919
+- Ubicación: Osorno, Chile
+- Correo: michelmzco@gmail.com
+- Teléfono: +56 9 6274 3919
 
 
 
@@ -19,17 +19,17 @@ categories:
 
 Este servicio consiste en la asesoria en tópicos relacionados a las tecnologías de la información. Mediante la coordinación de reunión en línea con cliente en plataforma Google Meet u otro a convenir.
 
-En esta modalidad se reciben cualquier tipo de duda, consulta, necesidad, problema y se orienta al cliente para obtener un mejor conocimiento en el área para la toma de desiciones.
+En esta modalidad se reciben cualquier tipo de duda, consulta, necesidad o problema. Luego se orienta con conocimientos técnicos al cliente, para la toma de desiciones.
 
 
 ## Aceleración de computadoras
 
-Este servicio consiste en la actualización del dispositivo de almacenamiento. Cambiando el disco duro (HDD, obsoleto para Windows 10+) por una unidad de estado sólido (SSD). El servicio incluye formateo, respaldo de información e instalación de software (office, adobe reader, winrar, vlc, etc).
+Este servicio consiste en la actualización del dispositivo de almacenamiento de un comptuador. Cambiando el disco duro (HDD, obsoleto para Windows 10 ó superior) por una unidad de estado sólido (SSD). El servicio incluye: formateo, respaldo de información e instalación de software (adobe reader, winrar, vlc, etc).
 
 
 ## Cotizaciones de equipamiento
 
-Reunión en torno a la cotización de equipamiento. El objetivo es que el cliente compre el equipamiento adecuado a sus necesidades y  presupuesto. Se asesora en conceptos técnicos y en detalle para asegurar una buena compra:
+Reunión en línea en torno a la cotización de equipamiento. El objetivo es que el cliente compre el equipamiento adecuado a sus necesidades y  presupuesto. Se asesora en conceptos técnicos y en detalle para asegurar una buena compra:
 
 - Cotización computadora personalizada en componentes técnicos (CPU, GPU, RAM, ETC).
 - Cotización técnica en teléfonos, tablets, notebook, pantallas y audio.

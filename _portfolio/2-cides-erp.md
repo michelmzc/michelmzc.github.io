@@ -1,6 +1,6 @@
 ---
 title: "CIDES ERP"
-excerpt: "Sistema de administración empresarial"
+excerpt: "Sistema de gestión de recursos educativos para un organismo técnico de capacitación (OTEC)"
 header:
   image: /assets/images/portfolio/cides-erp/Screenshot_3.jpg
   teaser: /assets/images/portfolio/cides-erp/Screenshot_1.jpg
