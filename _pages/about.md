@@ -13,6 +13,6 @@ Actualmente estoy trabajando como **profesor de programación** en [Instituto Co
 
 Mi experiencia laboral ha estado relacionada también con la ciberseguridad, desarrollo de software y educación.
 
-Gracias por haber llega hasta aquí.
+Gracias por haber llegado hasta aquí.
 
 Saludos!
