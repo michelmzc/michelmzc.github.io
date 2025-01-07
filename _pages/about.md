@@ -9,7 +9,7 @@ Bienvenidos a mi página web personal, en este lugar publico [información de mi
 
 Algo que debes saber de mi es que me apasiona la informática. Hasta tengo un [título profesional](https://michelmzc.github.io/portfolio/6-titulos/) y todo.
 
-Actualmente estoy trabajando como **profesor de programación** en [Instituto Comercial de Osorno](https://www.institutocomercialosorno.cl/).
+Actualmente estoy buscando trabajo como **desarrollador de software y relacionados**.
 
 Mi experiencia laboral ha estado relacionada también con la ciberseguridad, desarrollo de software y educación.
 
