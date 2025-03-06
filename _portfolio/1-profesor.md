@@ -1,8 +1,7 @@
 ---
-title: "Instructor de programación"
-excerpt: "Instructor Coding Dojo en curso técnico profesional de educación media"
+title: "Profesor de programación"
+excerpt: "Profesor Coding Dojo en curso técnico profesional de educación media"
 header:
-  image: /assets/images/portfolio/6-profesor/2.jpg
   teaser: /assets/images/portfolio/6-profesor/2.jpg
 sidebar:
   - title: "Role"    
@@ -26,11 +25,8 @@ gallery:
     alt: "Instituto Comercial de Osorno destaca en Santiago"
 ---
 
-{% include gallery caption="Galería de capturas" %}
 
-## Acerca del trabajo
-
-El 2024 se presentó la oportunidad de ser instructor en el [Instituto Comercial de Osorno](https://www.institutocomercialosorno.cl/).
+El 2024 se presentó la oportunidad de ser profesor en el [Instituto Comercial de Osorno](https://www.institutocomercialosorno.cl/).
 
 [Coding Dojo Latam](https://www.codingdojo.la/) me contactó para que realizará clases presenciales a chicos del 4° Medio A.
 
@@ -39,3 +35,5 @@ Tomé el desafio y durante 2024 dí la clases a estudiantes de la especialidad t
 Impartí los cursos de Introducción a la Web y Desarrollo web Full-Stack con Python. Estos adaptados por Coding Dojo para estudiantes de educación media en Chile.
 
 Al finalizar el año mis estudiantes fueron destacados con sus proyectos de programación a nivel nacional entre los 8 colegios que impartían los bootcamp. 
+
+{% include gallery %}

@@ -2,7 +2,6 @@
 title: "Implementación de Sistema de Computación en la Nube ..."
 excerpt: "Trabajo de título"
 header:
-  image: /assets/images/portfolio/cloud-computing/frontpage.jpg
   teaser: /assets/images/portfolio/cloud-computing/frontpage.jpg
 sidebar:
   - title: "Role"    
@@ -22,7 +21,7 @@ gallery:
     alt: "placeholder image 3"
 ---
 
-# [Repositorio de trabajo de título (PDF)](https://github.com/michelmzc/Implementacion-de-Sistema-de-Computacion-en-la-Nube-con-OpenStack/blob/518ad2f84eede151ad43ac4567262cc092cf345d/Implementaci%C3%B3n%20de%20Sistema%20de%20Computaci%C3%B3n%20en%20la%20Nube.%20Michel%20Mu%C3%B1oz%20(2021).pdf)
+# [Repositorio de trabajo de título (PDF)](https://github.com/michelmzc/Implementacion-de-Sistema-de-Computacion-en-la-Nube-con-OpenStack)
 
 
 {% include gallery caption="Galería de capturas" %}

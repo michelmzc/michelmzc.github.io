@@ -3,15 +3,13 @@ permalink: /about/
 title: "Acerca de"
 ---
 
-Hola, mi nombre es Michel, soy de Osorno, Chile, América del Sur. 
+Hola, mi nombre es Michel, soy de Osorno, Chile. 
 
-Bienvenidos a mi página web personal, en este lugar publico [información de mis proyectos](https://michelmzc.github.io/portfolio), pasatiempos e información miscelánea. 
+Bienvenidos a mi página web personal, en este lugar publico mi portafolio de trabajos, pasatiempos e información miscelánea. 
 
-Algo que debes saber de mi es que me apasiona la informática. Hasta tengo un [título profesional](https://michelmzc.github.io/portfolio/6-titulos/) y todo.
+Algo que debes saber de mi es que me apasiona la informática. Actualmente estoy trabajando como **desarrollador de software independiente**.
 
-Actualmente estoy buscando trabajo como **desarrollador de software y relacionados**.
-
-Mi experiencia laboral ha estado relacionada también con la ciberseguridad, desarrollo de software y educación.
+Puedes saber que estoy desarrollando actualmente en mi [cuenta de GitHub](https://github.com/michelmzc).
 
 Gracias por haber llegado hasta aquí.
 

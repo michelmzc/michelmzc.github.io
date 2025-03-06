@@ -1,8 +1,7 @@
 ---
 title: "CIDES ERP"
-excerpt: "Sistema de gestión de recursos educativos para un organismo técnico de capacitación (OTEC)"
+excerpt: "Sistema de gestión de recursos (ERP) educativos para un organismo técnico de capacitación (OTEC)"
 header:
-  image: /assets/images/portfolio/cides-erp/Screenshot_3.jpg
   teaser: /assets/images/portfolio/cides-erp/Screenshot_1.jpg
 sidebar:
   - title: "Role"    
@@ -27,8 +26,6 @@ gallery:
 
 ## [Enlace a la Beta](https://erp-test.cides.com/)
 
-{% include gallery caption="Galería de capturas" %}
-
 Trabajo desarrollado a [CIDES Corpotraining](https://www.cides.com/). 
 
 Mi trabajo consistió en desarrollar el nuevo sistema de administración empresarial (ERP) de CIDES. Mediante el rediseño de sistemas existentes con nuevas tecnologías. 
@@ -36,3 +33,5 @@ Mi trabajo consistió en desarrollar el nuevo sistema de administración empresa
 Se hace un desarrollo de software para cumplir los requerimientos de administración de un organismo técnico de capacitación con presencia en latinoamérica. 
 
 Tecnologías: Python, Flask, MySQL, Bootstrap, jQuery, Git y más. 
+
+{% include gallery %}
