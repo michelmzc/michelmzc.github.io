@@ -24,7 +24,7 @@ gallery:
   
 ---
 
-## [Enlace a la Beta](https://erp-test.cides.com/)
+## [Enlace al proyecto](https://erp.cides.com/)
 
 Trabajo desarrollado a [CIDES Corpotraining](https://www.cides.com/). 
 
