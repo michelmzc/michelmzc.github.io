@@ -29,7 +29,7 @@ Este servicio consiste en la actualización del dispositivo de almacenamiento de
 
 ## Cotizaciones de equipamiento
 
-Reunión en línea en torno a la cotización de equipamiento. El objetivo es que el cliente compre el equipamiento adecuado a sus necesidades y  presupuesto. Se asesora en conceptos técnicos y en detalle para asegurar una buena compra:
+Reunión en línea en torno a la cotización de equipamiento. El objetivo es que el cliente compre el equipamiento adecuado a sus necesidades y  presupuesto. Se asesora en conceptos técnicos y en detalle para asegurar una compra informada:
 
 - Cotización computadora personalizada en componentes técnicos (CPU, GPU, RAM, ETC).
 - Cotización técnica en teléfonos, tablets, notebook, pantallas y audio.
@@ -38,4 +38,9 @@ Reunión en línea en torno a la cotización de equipamiento. El objetivo es que
 
 ## Desarrollo de software
 
-Este servicio consiste en el desarrollo de software a medida. Se coordina una reunión para evaluar el proyecto y se entrega un presupuesto de acuerdo a los requerimientos y posibles soluciones necesarias. 
+Este servicio consiste en el desarrollo de software a medida. Se coordina una reunión para evaluar el proyecto y se entrega un presupuesto de acuerdo a los requerimientos y posibles soluciones necesarias. Puede ver software desarrollado y sitio web en [Portafolio](https://michelmzc.github.io/portfolio/) y también trabajos actuales en (cuenta de GitHub)[https://github.com/michelmzc].
+
+## Licenciamiento de software
+
+Servicio de venta e instalación de diversos software como Adobe Acrobat Pro, AutoCAD, MS Office, MS Windows, entre otros.
+Instalación remota con software [AnyDesk](https://anydesk.com/es).
