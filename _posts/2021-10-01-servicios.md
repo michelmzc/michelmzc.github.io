@@ -38,7 +38,7 @@ Reunión en línea en torno a la cotización de equipamiento. El objetivo es que
 
 ## Desarrollo de software
 
-Este servicio consiste en el desarrollo de software a medida. Se coordina una reunión para evaluar el proyecto y se entrega un presupuesto de acuerdo a los requerimientos y posibles soluciones necesarias. Puede ver software desarrollado y sitio web en [Portafolio](https://michelmzc.github.io/portfolio/) y también trabajos actuales en (cuenta de GitHub)[https://github.com/michelmzc].
+Este servicio consiste en el desarrollo de software a medida. Se coordina una reunión para evaluar el proyecto y se entrega un presupuesto de acuerdo a los requerimientos y posibles soluciones necesarias. Puede ver software desarrollado y sitio web en [Portafolio](https://michelmzc.github.io/portfolio/) y también trabajos actuales en [cuenta de GitHub](https://github.com/michelmzc).
 
 ## Licenciamiento de software
 
